@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hydra_brandon" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_brandon?logo=twitter&style=for-the-badge" alt="hydra_brandon" /></a> </p>
 
-- 🔭 I’m currently working on **Concrete Management System**
+- 🔭 I’m currently working on **External Projects**
 
 - 💬 Ask me about **Flutter, backend development, Firebase**
 
